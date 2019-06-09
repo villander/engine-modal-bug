@@ -3,7 +3,7 @@
 
 module.exports = function(environment) {
   let ENV = {
-    modulePrefix: 'engine-modal-bug',
+    modulePrefix: 'ember-blog-engine',
     environment
   };
 
