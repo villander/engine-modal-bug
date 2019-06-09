@@ -3,7 +3,8 @@
   "version": "0.0.0",
   "description": "The default blueprint for ember-cli addons.",
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "ember-engine"
   ],
   "license": "MIT",
   "author": "",
@@ -35,7 +36,7 @@
     "ember-cli-sri": "^2.1.0",
     "ember-cli-uglify": "^2.0.0",
     "ember-disable-prototype-extensions": "^1.1.2",
-    "ember-engines": "0.5.18",
+    "ember-engines": "0.7.1",
     "ember-export-application-global": "^2.0.0",
     "ember-load-initializers": "^1.0.0",
     "ember-maybe-import-regenerator": "^0.1.6",
